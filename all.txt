@@ -12,17 +12,19 @@ http://bt.okmp3.ru:2710/announce
 
 http://chouchou.top:8080/announce
 
+http://debuz.com:6969/announce
+
 http://dht.dhtclub.com:666/announce
 
+http://fosstorrents.com:6969/announce
+
 http://i-p-v-6.tk:6969/announce
-
-http://incine.ru:6969/announce
-
-http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -63,8 +65,6 @@ http://tracker.ipv6tracker.ru:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.letpo.com:80/announce
-
-http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -113,6 +113,8 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -239,8 +241,6 @@ udp://open.publictracker.xyz:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
-
-udp://open.xxtor.com:3074/announce
 
 udp://opentor.org:2710/announce
 
