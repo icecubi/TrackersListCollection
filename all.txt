@@ -66,7 +66,7 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.letpo.com:80/announce
 
-http://tracker.openbittorrent.com:80/announce
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -123,6 +123,8 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.mlsub.net:443/announce
+
+https://tracker.moeblog.cn:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -188,8 +190,6 @@ udp://chouchou.top:8080/announce
 
 udp://concen.org:6969/announce
 
-udp://cutscloud.duckdns.org:6969/announce
-
 udp://dht.bt251.com:6969/announce
 
 udp://epider.me:6969/announce
@@ -209,8 +209,6 @@ udp://htz3.noho.st:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.69.mu:6969/announce
-
-udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
