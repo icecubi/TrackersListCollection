@@ -20,6 +20,8 @@ http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -34,8 +36,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://trackers.ydns.eu:10036/announce
@@ -43,6 +43,8 @@ http://trackers.ydns.eu:10036/announce
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -63,8 +65,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -102,7 +102,7 @@ udp://boysbitte.be:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://chouchou.top:8080/announce
+udp://chihaya.de:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
@@ -115,6 +115,8 @@ udp://exodus.desync.com:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://htz3.noho.st:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.69.mu:6969/announce
 
@@ -154,6 +156,8 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
+udp://smtp.loki.tel:25/announce
+
 udp://stargrave.org:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -184,6 +188,10 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -206,11 +214,9 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker.zaluan.xyz:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
