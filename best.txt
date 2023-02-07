@@ -36,15 +36,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.mywaifu.best:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://trackers.ydns.eu:10036/announce
 
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
-
-http://vps02.net.orel.ru:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -102,6 +102,8 @@ udp://boysbitte.be:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://chihaya.de:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
@@ -152,6 +154,8 @@ udp://private.anonseed.com:6969/announce
 
 udp://psyco.fr:6969/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://run.publictracker.xyz:6969/announce
 
 udp://slicie.icon256.com:8000/announce
@@ -180,8 +184,6 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -206,7 +208,7 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.qu.ax:6969/announce
+udp://tracker.pimpmyworld.to:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
@@ -229,6 +231,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://www.peckservers.com:9000/announce
+
+udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
