@@ -34,19 +34,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
-http://tracker.skyts.net:6969/announce
-
 http://trackers.ydns.eu:10036/announce
 
 http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
-
-http://vps02.net.orel.ru:80/announce
-
-http://web.open-tracker.cf:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -77,8 +69,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.mlsub.net:443/announce
-
-https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -178,6 +168,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
+udp://tracker.cubonegro.xyz:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
@@ -200,6 +192,8 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.pimpmyworld.to:6969/announce
 
+udp://tracker.publictracker.xyz:6969/announce
+
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -210,17 +204,23 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.zaluan.xyz:6969/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
+udp://trackerb.jonaslsa.com:6969/announce
 
-udp://u6.trakx.crim.ist:1337/announce
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
+
+udp://v2.iperson.xyz:6969/announce
 
 udp://www.peckservers.com:9000/announce
 

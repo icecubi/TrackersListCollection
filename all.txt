@@ -22,11 +22,15 @@ http://ipv6.1337.cx:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -78,11 +82,11 @@ http://v6-tracker.0g.cx:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://web.open-tracker.cf:6969/announce
-
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -119,8 +123,6 @@ https://tracker.loligirl.cn:443/announce
 https://tracker.mlsub.net:443/announce
 
 https://tracker.moeblog.cn:443/announce
-
-https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -164,8 +166,6 @@ udp://aegir.sexy:6969/announce
 
 udp://astrr.ru:6969/announce
 
-udp://bedro.cloud:6969/announce
-
 udp://black-bird.ynh.fr:6969/announce
 
 udp://boysbitte.be:6969/announce
@@ -180,8 +180,6 @@ udp://camera.lei001.com:6969/announce
 
 udp://chouchou.top:8080/announce
 
-udp://concen.org:6969/announce
-
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
@@ -193,6 +191,8 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://freedom.1776.ga:6969/announce
 
@@ -242,6 +242,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -267,6 +269,8 @@ udp://t.133335.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 
 udp://thagoat.rocks:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
