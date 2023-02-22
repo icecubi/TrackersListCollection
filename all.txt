@@ -42,8 +42,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -90,8 +88,6 @@ http://v6-tracker.0g.cx:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://wepzone.net:6969/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -105,8 +101,6 @@ https://t1.hloli.org:443/announce
 https://tr.abiir.top:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tracker.expli.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -206,8 +200,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://freedom.1776.ga:6969/announce
 
-udp://htz3.noho.st:6969/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.69.mu:6969/announce
@@ -282,8 +274,6 @@ udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tr.bangumi.moe:6969/announce
-
 udp://tr.cili001.com:8070/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -307,8 +297,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -375,8 +363,6 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://www.peckservers.com:9000/announce
 

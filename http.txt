@@ -42,8 +42,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -90,8 +88,6 @@ http://v6-tracker.0g.cx:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://wepzone.net:6969/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
@@ -105,8 +101,6 @@ https://t1.hloli.org:443/announce
 https://tr.abiir.top:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tracker.expli.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
