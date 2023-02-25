@@ -14,6 +14,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://share.camoe.cn:8080/announce
@@ -34,6 +36,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.openbittorrent.com:80/announce
 
 http://trackers.ydns.eu:10036/announce
@@ -48,6 +52,8 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://opentracker.i2p.rocks:443/announce
+
 https://tr.abiir.top:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -61,6 +67,8 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lilithraws.cf:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -85,8 +93,6 @@ udp://boysbitte.be:6969/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://cutscloud.duckdns.org:6969/announce
 
 udp://dht.bt251.com:6969/announce
 
@@ -123,6 +129,8 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -171,8 +179,6 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
