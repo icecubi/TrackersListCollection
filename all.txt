@@ -46,6 +46,8 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -76,9 +78,13 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -89,6 +95,8 @@ http://trackme.theom.nz:80/announce
 http://v6-tracker.0g.cx:6969/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -204,6 +212,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
+udp://free.publictracker.xyz:6969/announce
+
 udp://freedom.1776.ga:6969/announce
 
 udp://htz3.noho.st:6969/announce
@@ -250,6 +260,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://qtstm32fan.ru:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -275,8 +287,6 @@ udp://t.133335.xyz:6969/announce
 udp://tamas3.ynh.fr:6969/announce
 
 udp://thagoat.rocks:6969/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
@@ -371,6 +381,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.peckservers.com:9000/announce
 
