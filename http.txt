@@ -62,11 +62,11 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
+
+http://tracker.sakurato.art:23333/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -89,8 +89,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
-
-https://t1.hloli.org:443/announce
 
 https://torrent-tracker.hama3.net:443/announce
 

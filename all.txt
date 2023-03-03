@@ -62,11 +62,11 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
+
+http://tracker.sakurato.art:23333/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -89,8 +89,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
-
-https://t1.hloli.org:443/announce
 
 https://torrent-tracker.hama3.net:443/announce
 
@@ -228,8 +226,6 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -246,10 +242,6 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://qtstm32fan.ru:6969/announce
-
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -261,8 +253,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://sanincode.com:6969/announce
 
 udp://slicie.icon256.com:8000/announce
-
-udp://smtp.loki.tel:25/announce
 
 udp://stargrave.org:6969/announce
 
@@ -300,6 +290,8 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.ccp.ovh:6969/announce
+
 udp://tracker.cubonegro.xyz:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -319,8 +311,6 @@ udp://tracker.joybomb.tw:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
@@ -350,13 +340,13 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.yangxiaoguozi.cn:6969/announce
+
 udp://tracker.zaluan.xyz:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
-
-udp://tracker2.dler.com:80/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
