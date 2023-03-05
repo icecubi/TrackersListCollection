@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://504e163a.host.njalla.net:6969/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -29,6 +27,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -82,8 +82,6 @@ udp://bt1.archive.org:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
-udp://dht.bt251.com:6969/announce
-
 udp://dns.xxtor.com:53/announce
 
 udp://epider.me:6969/announce
@@ -123,8 +121,6 @@ udp://p4p.arenabg.com:1337/announce
 udp://private.anonseed.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -189,8 +185,6 @@ udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.theoks.net:6969/announce
 
