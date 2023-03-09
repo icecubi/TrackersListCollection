@@ -18,8 +18,6 @@ http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
 
-http://fe.dealclub.de:6969/announce
-
 http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
@@ -31,6 +29,8 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -74,7 +74,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.swateam.org.uk:2710/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -104,8 +104,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
 
-https://tracker.dmhy.pw:443/announce
-
 https://tracker.expli.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -131,8 +129,6 @@ https://tracker.moeblog.cn:443/announce
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
-
-https://tracker1.loli.co.nz:443/announce
 
 https://trackers.mlsub.net:443/announce
 
@@ -373,8 +369,6 @@ udp://wepzone.net:6969/announce
 udp://www.peckservers.com:9000/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
