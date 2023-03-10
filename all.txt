@@ -18,11 +18,13 @@ http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
+http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -68,13 +70,19 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
+
+http://tracker.swifte.space:2710/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -244,8 +252,6 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -369,6 +375,8 @@ udp://wepzone.net:6969/announce
 udp://www.peckservers.com:9000/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://zecircle.xyz:6969/announce
 
 ws://hub.bugout.link:80/announce
 
