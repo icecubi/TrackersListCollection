@@ -18,19 +18,19 @@ http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
 
+http://fe.dealclub.de:6969/announce
+
 http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
-http://montreal.nyap2p.com:8080/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 
-http://movies.zsw.ca:6969/announce
+http://montreal.nyap2p.com:8080/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -70,11 +70,11 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
+http://tracker.renfei.net:8080/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
-
-http://tracker2.dler.org:80/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -112,11 +112,15 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://tracker.jiesen.life:8443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.lelux.fi:443/announce
 
 https://tracker.lilithraws.cf:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -194,6 +198,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
+udp://freedom.1776.ga:6969/announce
+
 udp://htz3.noho.st:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
@@ -238,6 +244,8 @@ udp://psyco.fr:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://rep-art.ynh.fr:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -265,6 +273,8 @@ udp://thagoat.rocks:6969/announce
 udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -340,8 +350,6 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.yangxiaoguozi.cn:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
@@ -359,8 +367,6 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
-
-udp://v2.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
 
