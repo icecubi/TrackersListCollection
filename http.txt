@@ -10,6 +10,8 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.endpot.com:80/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://bt1.letpo.com:80/announce
 
 http://chouchou.top:8080/announce
@@ -22,17 +24,11 @@ http://fosstorrents.com:6969/announce
 
 http://incine.ru:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 http://montreal.nyap2p.com:8080/announce
-
-http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -90,9 +86,9 @@ http://vps02.net.orel.ru:80/announce
 
 http://web.open-tracker.cf:6969/announce
 
-http://wepzone.net:6969/announce
-
 http://www.all4nothin.net:80/announce.php
+
+http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
 
