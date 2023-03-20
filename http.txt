@@ -40,8 +40,6 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
@@ -53,8 +51,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -82,6 +78,8 @@ http://trackme.theom.nz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
 
+http://vps-dd0a0715.vps.ovh.net:6969/announce
+
 http://vps02.net.orel.ru:80/announce
 
 http://web.open-tracker.cf:6969/announce
@@ -99,8 +97,6 @@ https://1337.abcvg.info:443/announce
 https://opentracker.i2p.rocks:443/announce
 
 https://t1.hloli.org:443/announce
-
-https://torrent-tracker.hama3.net:443/announce
 
 https://tr.abiir.top:443/announce
 
@@ -127,8 +123,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.mlsub.net:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
