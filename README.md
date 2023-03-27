@@ -28,14 +28,14 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-### Updated: 2023-03-26
+### Updated: 2023-03-27
 
-- **BEST Tracker list:** (109 trackers)  
- _**[https://trackerslist.../best.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best.txt)**_  
-- **ALL Tracker list:** (186 trackers)  
- _**[https://trackerslist.../all.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt)**_  
+- **BEST Tracker list:** (111 trackers)  
+ _**https://cf.trackerslist.com/best.txt**_  
+- **ALL Tracker list:** (188 trackers)  
+ _**https://cf.trackerslist.com/all.txt**_  
 - **HTTP(S) Tracker list:** (67 trackers)  
- _**[https://trackerslist.../http.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http.txt)**_  
+ _**https://cf.trackerslist.com/http.txt**_  
 
 <details>
 <summary><strong><code>[Click to expand] - View alternate address</code></strong></summary>
@@ -45,6 +45,8 @@ _You can judge whether there is a problem with the BT configuration and network 
 \# **The following is an example of the complete list `all.txt` (modify the file name as needed):**  
 
 - _**https://cf.trackerslist.com/all.txt**_  
+- _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/all.txt**_  
+- _**https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt**_  
 - _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
@@ -62,9 +64,9 @@ _You can judge whether there is a problem with the BT configuration and network 
 <details>
 <summary><strong><code>[Click to expand] - View the tracker list in Aria2 format</code> </strong></summary>
 
-- _**[https://trackerslist.../best_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best_aria2.txt)**_  
-- _**[https://trackerslist.../all_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all_aria2.txt)**_  
-- _**[https://trackerslist.../http_aria2.txt](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/http_aria2.txt)**_  
+- _**https://cf.trackerslist.com/best_aria2.txt**_  
+- _**https://cf.trackerslist.com/all_aria2.txt**_  
+- _**https://cf.trackerslist.com/http_aria2.txt**_  
 
 </details>
 
