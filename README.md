@@ -28,7 +28,7 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-### Updated: 2023-03-27
+### Updated: 2023-03-28
 
 - **BEST Tracker list:** (111 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  

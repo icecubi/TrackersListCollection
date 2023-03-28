@@ -26,11 +26,11 @@ http://incine.ru:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -44,9 +44,9 @@ http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
 
-http://torrentsmd.com:8080/announce
+http://t.nyaatracker.com:80/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
+http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
 
@@ -272,6 +272,8 @@ udp://tr.bangumi.moe:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
+udp://tr2.cubonegro.lol:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
@@ -365,8 +367,6 @@ udp://wepzone.net:6969/announce
 udp://www.2600.com:6969/announce
 
 udp://www.peckservers.com:9000/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://zecircle.xyz:6969/announce
 
