@@ -128,8 +128,6 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -155,6 +153,8 @@ udp://thagoat.rocks:6969/announce
 udp://thetracker.org:80/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr2.cubonegro.lol:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
@@ -201,6 +201,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
 
