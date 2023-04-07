@@ -32,7 +32,7 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.tfile.co:80/announce
+http://tracker.skyts.net:6969/announce
 
 http://trackme.theom.nz:80/announce
 
@@ -150,8 +150,6 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
-udp://tracker.arcbox.cc:6969/announce
-
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
@@ -159,6 +157,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -171,8 +171,6 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
-
-udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
