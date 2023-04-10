@@ -1,5 +1,7 @@
 http://1337.abcvg.info:80/announce
 
+http://147job.com:6969/announce
+
 http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
@@ -17,6 +19,8 @@ http://bt1.letpo.com:80/announce
 http://chouchou.top:8080/announce
 
 http://dht.dhtclub.com:666/announce
+
+http://dn42.smrsh.net:6969/announce
 
 http://fosstorrents.com:6969/announce
 
@@ -107,8 +111,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lelux.fi:443/announce
 
 https://tracker.lilithraws.cf:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
