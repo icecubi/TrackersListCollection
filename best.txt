@@ -24,8 +24,6 @@ http://torrentsmd.com:8080/announce
 
 http://tr.cili001.com:8070/announce
 
-http://tracker-sanopiracy.hopto.org:9123/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
@@ -140,8 +138,6 @@ udp://thouvenin.cloud:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -158,13 +154,13 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
+udp://tracker.cubonegro.lol:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
