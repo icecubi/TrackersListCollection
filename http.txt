@@ -16,15 +16,11 @@ http://bt1.letpo.com:80/announce
 
 http://chouchou.top:8080/announce
 
-http://dn42.smrsh.net:6969/announce
-
 http://fe.dealclub.de:6969/announce
 
-http://fosstorrents.com:6969/announce
-
-http://incine.ru:6969/announce
-
 http://montreal.nyap2p.com:8080/announce
+
+http://movies.zsw.ca:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -70,6 +66,8 @@ http://tracker.srv00.com:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
+http://tracker2.dler.org:80/announce
+
 http://uraniumhexafluori.de:1919/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -86,13 +84,13 @@ https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
+https://t.zerg.pw:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://torrent-tracker.hama3.net:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
