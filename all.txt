@@ -16,8 +16,6 @@ http://bt1.letpo.com:80/announce
 
 http://chouchou.top:8080/announce
 
-http://dn42.smrsh.net:6969/announce
-
 http://fe.dealclub.de:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
@@ -29,8 +27,6 @@ http://nyaa.tracker.wf:7777/announce
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
-
-http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -64,9 +60,9 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -98,8 +94,6 @@ https://torrent-tracker.hama3.net:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tr.ready4.icu:443/announce
-
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -112,7 +106,11 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.logirl.moe:443/announce
+
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.mlsub.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -177,6 +175,8 @@ udp://exodus.desync.com:6969/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://freedom.1776.ga:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
@@ -256,6 +256,8 @@ udp://tr.cili001.com:8070/announce
 
 udp://tr2.cubonegro.lol:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -271,8 +273,6 @@ udp://tracker.beeimg.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
@@ -333,8 +333,6 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
-
-udp://v2.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
 
