@@ -20,13 +20,13 @@ http://fe.dealclub.de:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
 
@@ -37,8 +37,6 @@ http://retracker.hotplug.ru:2710/announce
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -59,6 +57,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -94,11 +94,15 @@ https://torrent-tracker.hama3.net:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://tr.ready4.icu:443/announce
+
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -109,8 +113,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.logirl.moe:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.mlsub.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -123,8 +125,6 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 
 udp://52.58.128.163:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://9.rarbg.com:2810/announce
 
@@ -202,6 +202,8 @@ udp://open.dstud.io:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -274,6 +276,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -333,6 +337,8 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
+
+udp://v2.iperson.xyz:6969/announce
 
 udp://wepzone.net:6969/announce
 
