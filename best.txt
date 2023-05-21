@@ -4,6 +4,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.acgnxtracker.com:80/announce
+
 http://open.tracker.ink:6969/announce
 
 http://p2p.0g.cx:6969/announce
@@ -13,6 +15,8 @@ http://share.camoe.cn:8080/announce
 http://shogiroom.com:6969/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -27,8 +31,6 @@ http://tracker.gbitt.info:80/announce
 http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.openbittorrent.com:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -64,8 +66,6 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tracker.moeblog.cn:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
@@ -77,8 +77,6 @@ udp://aarsen.me:6969/announce
 udp://acxx.de:6969/announce
 
 udp://astrr.ru:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -142,8 +140,6 @@ udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
-udp://tracker.altrosky.nl:6969/announce
-
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -178,8 +174,6 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trojangogogo.site:8080/announce
@@ -187,6 +181,8 @@ udp://tracker.trojangogogo.site:8080/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker2.dler.com:80/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 

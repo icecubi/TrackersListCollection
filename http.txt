@@ -18,13 +18,9 @@ http://fe.dealclub.de:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -37,6 +33,8 @@ http://share.camoe.cn:8080/announce
 http://shogiroom.com:6969/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -90,8 +88,6 @@ https://1337.abcvg.info:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
-https://t.zerg.pw:443/announce
-
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
@@ -115,8 +111,6 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
 

@@ -37,17 +37,17 @@ _下图是使用我整理的 Tracker 列表下载BT的速度（all.txt）。_
 ![BitComet](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/zh-01.png)
 ![qBittorrentEE](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/zh-02.png)
 
-_可通过观察 **[ubuntu.torrent](https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso.torrent)** 下载速度来**判断 BT 配置、网络**是否有问题，该热门资源不缺做种用户，如果**下载速度较慢**则可能有问题。_
+_可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-downloads#bittorrent)** 下载速度来**判断 BT 配置、网络**是否有问题，该热门资源不缺做种用户，如果**下载速度较慢**则可能有问题。_
 
 ****
 
-### 更新时间: 2023-05-20
+### 更新时间: 2023-05-21
 
-- **精选列表：**(101 个)  
+- **精选列表：**(99 个)  
  _**[https://trackerslist.../best.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt)**_  
-- **完整列表：**(175 个)  
+- **完整列表：**(171 个)  
  _**[https://trackerslist.../all.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt)**_  
-- **HTTP(S)列表：**(62 个)  
+- **HTTP(S)列表：**(59 个)  
  _**[https://trackerslist.../http.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http.txt)**_  
 
 > 上面的链接地址已改为 **CDN 分流**地址，以缓解因使用人数过多而导致的网络问题。
