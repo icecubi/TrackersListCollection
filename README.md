@@ -19,7 +19,7 @@ Tracker is a necessary role in BT download, it can effectively improve BT downlo
 
 > Record user information that downloads the same resource to **help you connect with other users**.  
 
-_The figure below shows the BT download speed after using Tracker. (all.txt)_  
+_The figure below shows the BT download speed after using Tracker. (best.txt)_  
 
 ![BitComet](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-01.png)
 ![qBittorrentEE](https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/img/en-02.png)
@@ -28,13 +28,13 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-### Updated: 2023-05-25
+### Updated: 2023-05-26
 
-- **BEST Tracker list:** (98 trackers)  
+- **BEST Tracker list:** (99 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (172 trackers)  
+- **ALL Tracker list:** (171 trackers)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (62 trackers)  
+- **HTTP(S) Tracker list:** (61 trackers)  
  _**https://cf.trackerslist.com/http.txt**_  
 
 <details>
@@ -42,16 +42,16 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-\# **The following is an example of the complete list `all.txt` (modify the file name as needed):**  
+\# **The following is an example of the complete list `best.txt` (modify the file name as needed):**  
 
-- _**https://cf.trackerslist.com/all.txt**_  
-- _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/all.txt**_  
-- _**https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt**_  
-- _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
-- _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
-- _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/all.txt**_  
-- _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/all.txt**_  
-- _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt**_  
+- _**https://cf.trackerslist.com/best.txt**_  
+- _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/best.txt**_  
+- _**https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt**_  
+- _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://cdn.staticaly.com/gh/XIU2/TrackersListCollection/master/best.txt**_  
+- _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt**_  
 
 </details>
 
