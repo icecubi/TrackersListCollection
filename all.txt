@@ -54,8 +54,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.edkj.club:6969/announce
-
 http://tracker.fansub.id:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -68,17 +66,15 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.swateam.org.uk:2710/announce
+http://tracker.skyts.net:6969/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker.swateam.org.uk:2710/announce
 
 http://unknownsite.de:6969/announce
 
@@ -94,6 +90,8 @@ http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.chouchou.club:8080/announce
+
 http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
@@ -105,8 +103,6 @@ https://t.zerg.pw:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -330,8 +326,6 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
@@ -359,8 +353,6 @@ udp://tracker.monitorit4.me:6969/announce
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.pimpmyworld.to:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
