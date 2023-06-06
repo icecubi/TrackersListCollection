@@ -206,8 +206,6 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
-udp://tracker.joybomb.tw:6969/announce
-
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -245,6 +243,8 @@ udp://uploads.gamecoast.net:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://vm3268418.24ssd.had.wf:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://yahor.of.by:6969/announce
 
