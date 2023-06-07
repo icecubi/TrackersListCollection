@@ -12,8 +12,9 @@
 > 「[English](https://github.com/XIU2/TrackersListCollection/#readme)」(Visitors at [trackerslist.com](https://trackerslist.com/), please switch languages via the top right corner↗)  
 
 
-> _分享我其他开源项目：[Github 高速下载、知乎增强、自动无缝翻页、护眼模式 等**油猴脚本**！](https://github.com/XIU2/UserScript)<img src="https://img.shields.io/github/stars/XIU2/UserScript.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_   
-> _[**CloudflareSpeedTest** - 🌩 测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！](https://github.com/XIU2/CloudflareSpeedTest) <img src="https://img.shields.io/github/stars/XIU2/CloudflareSpeedTest.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_   
+> _分享我其他开源项目：[**CloudflareSpeedTest** - 🌩 测试 Cloudflare CDN 延迟和速度，获取最快 IP~](https://github.com/XIU2/CloudflareSpeedTest) <img src="https://img.shields.io/github/stars/XIU2/CloudflareSpeedTest.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_  
+> _[**UserScript** - 🐵 Github 高速下载、知乎增强、自动无缝翻页、护眼模式 等十几个**油猴脚本**~](https://github.com/XIU2/UserScript) <img src="https://img.shields.io/github/stars/XIU2/UserScript.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_  
+> _[📚「阅读」APP 精品书源~](https://github.com/XIU2/Yuedu) <img src="https://img.shields.io/github/stars/XIU2/Yuedu.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" /> 、[🧷 **SNIProxy** - 支持全平台系统、前置代理等~](https://github.com/XIU2/SNIProxy) <img src="https://img.shields.io/github/stars/XIU2/SNIProxy.svg?style=flat-square&label=Star&color=4285dd&logo=github" height="16px" />_
 
 ****
 
@@ -41,11 +42,11 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ****
 
-### 更新时间: 2023-06-06
+### 更新时间: 2023-06-07
 
 - **精选列表：**(127 个)  
  _**[https://trackerslist.../best.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt)**_  
-- **完整列表：**(201 个)  
+- **完整列表：**(205 个)  
  _**[https://trackerslist.../all.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt)**_  
 - **HTTP(S)列表：**(65 个)  
  _**[https://trackerslist.../http.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http.txt)**_  
