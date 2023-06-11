@@ -28,8 +28,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://region.nl1.privex.cc:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
@@ -74,6 +72,8 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -101,6 +101,8 @@ https://t1.hloli.org:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
