@@ -14,6 +14,8 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
+http://p2p.0g.cx:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -34,9 +36,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.renfei.net:8080/announce
+http://tracker.openbittorrent.com:80/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.renfei.net:8080/announce
 
 http://tracker.tfile.co:80/announce
 
@@ -58,8 +60,6 @@ https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tracker.cloudit.top:443/announce
-
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -78,11 +78,15 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
+
+https://www.peckservers.com:9443/announce
 
 udp://107.182.30.76.16clouds.com:6969/announce
 
@@ -110,13 +114,13 @@ udp://city21.pk:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://dyndns.xionxiii.ovh:6969/announce
+
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://fleira.no:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -134,8 +138,6 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://netmap.top:6969/announce
-
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://ns557939.ip-54-39-48.net:6969/announce
@@ -145,6 +147,8 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://nullzone.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
+
+udp://open.8a.is:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -157,6 +161,8 @@ udp://open.tracker.ink:6969/announce
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -192,6 +198,8 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker.auctor.tv:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -205,8 +213,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.farted.net:6969/announce
-
-udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -225,8 +231,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
