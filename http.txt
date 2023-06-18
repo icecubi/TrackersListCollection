@@ -30,6 +30,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://p2p.0g.cx:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
@@ -76,9 +78,13 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.swateam.org.uk:2710/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -91,6 +97,8 @@ http://wepzone.net:6969/announce
 http://wg.mortis.me:6969/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.chouchou.club:8080/announce
 
 http://www.peckservers.com:9000/announce
 
