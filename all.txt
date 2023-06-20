@@ -28,11 +28,15 @@ http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -56,8 +60,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.edkj.club:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -70,8 +72,6 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
@@ -80,7 +80,7 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.swateam.org.uk:2710/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -97,6 +97,8 @@ http://www.chouchou.club:8080/announce
 http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
+
+https://1337.abcvg.info:443/announce
 
 https://t.zerg.pw:443/announce
 
@@ -120,9 +122,13 @@ https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
 
+https://tracker.lilithraws.cf:443/announce
+
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
+
+https://tracker.moeblog.cn:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -175,8 +181,6 @@ udp://aegir.sexy:6969/announce
 udp://astrr.ru:6969/announce
 
 udp://astrra.space:6969/announce
-
-udp://axell24.ru:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
@@ -254,6 +258,8 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
+udp://open.u-p.pw:6969/announce
+
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -274,11 +280,11 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://run-2.publictracker.xyz:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 udp://ryjer.com:6969/announce
+
+udp://sanincode.com:6969/announce
 
 udp://soundmovie.ru:6969/announce
 
@@ -356,8 +362,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -390,6 +394,8 @@ udp://trackerb.jonaslsa.com:6969/announce
 
 udp://ts.populargamers.co.za:6969/announce
 
+udp://ttk2.nbaonlineservice.com:6969/announce
+
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://uploads.gamecoast.net:6969/announce
@@ -401,6 +407,8 @@ udp://v2.iperson.xyz:6969/announce
 udp://vm3268418.24ssd.had.wf:6969/announce
 
 udp://wepzone.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://yahor.of.by:6969/announce
 
