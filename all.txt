@@ -14,8 +14,6 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://bt.endpot.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://canardscitrons.nohost.me:6969/announce
@@ -26,9 +24,9 @@ http://li2021-95.members.linode.com:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
+
+http://open.8a.is:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -42,6 +40,8 @@ http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
 
+http://shubt.net:2710/announce
+
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
@@ -49,8 +49,6 @@ http://t.nyaatracker.com:80/announce
 http://t.publictracker.xyz:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://tr.cili001.com:8070/announce
 
 http://tracker.birkenwald.de:6969/announce
 
@@ -84,10 +82,6 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker2.dler.org:80/announce
-
-http://tracker2.itzmx.com:6961/announce
-
 http://tracker4.itzmx.com:2710/announce
 
 http://v6-tracker.0g.cx:6969/announce
@@ -105,6 +99,8 @@ https://1337.abcvg.info:443/announce
 https://t.zerg.pw:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tracker.bangumi.zip:443/announce
 
@@ -129,6 +125,8 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.moeblog.cn:443/announce
+
+https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -220,17 +218,19 @@ udp://moonburrow.club:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://netmap.top:6969/announce
-
 udp://new-line.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
+udp://open.8a.is:6969/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -283,8 +283,6 @@ udp://t.133335.xyz:6969/announce
 udp://t.zerg.pw:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
@@ -365,10 +363,6 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker2.dler.com:80/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://tracker2.itzmx.com:6961/announce
-
-udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
