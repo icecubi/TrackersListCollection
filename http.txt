@@ -96,6 +96,8 @@ https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://tr.ready4.icu:443/announce
+
 https://tracker.bangumi.zip:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -109,6 +111,8 @@ https://tracker.ipfsscan.io:443/announce
 https://tracker.jiesen.life:8443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
