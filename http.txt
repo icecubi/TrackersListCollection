@@ -16,6 +16,8 @@ http://bt.endpot.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://buny.uk:6969/announce
+
 http://montreal.nyap2p.com:8080/announce
 
 http://movies.zsw.ca:6969/announce
@@ -23,6 +25,8 @@ http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -68,9 +72,9 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.sheesh.rip:6969/announce
 
-http://tracker.swateam.org.uk:2710/announce
+http://tracker.skyts.net:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.swateam.org.uk:2710/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -87,8 +91,6 @@ http://www.peckservers.com:9000/announce
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://t.zerg.pw:443/announce
 
 https://t1.hloli.org:443/announce
 
