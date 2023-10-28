@@ -22,15 +22,11 @@ http://bvarf.tracker.sh:2086/announce
 
 http://incine.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
-
-http://p2p.0g.cx:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
