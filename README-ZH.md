@@ -41,13 +41,13 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ****
 
-### 更新时间: 2023-10-31
+### 更新时间: 2023-11-01
 
-- **精选列表：**(96 个)  
+- **精选列表：**(94 个)  
  _**[https://trackerslist.../best.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt)**_  
 - **完整列表：**(179 个)  
  _**[https://trackerslist.../all.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt)**_  
-- **HTTP(S)列表：**(61 个)  
+- **HTTP(S)列表：**(62 个)  
  _**[https://trackerslist.../http.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http.txt)**_  
 
 > 上面的链接地址已改为 **CDN 分流**地址，以缓解因使用人数过多而导致的网络问题。
@@ -69,6 +69,7 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 - _**https://raw.njuu.cf/XIU2/TrackersListCollection/master/best.txt**_  
 - _**[https://ghproxy.net/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.net/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://ghproxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
+- _**[https://gh-proxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://gh-proxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://github.moeyy.xyz/.../XIU2/TrackersListCollection/master/best.txt](https://github.moeyy.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 
 
