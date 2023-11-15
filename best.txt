@@ -10,8 +10,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://share.camoe.cn:8080/announce
 
 http://t.acg.rip:6699/announce
@@ -29,6 +27,8 @@ http://tracker.gbitt.info:80/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -68,13 +68,13 @@ udp://107.182.30.76.16clouds.com:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://6.pocketnet.app:6969/announce
-
 udp://aarsen.me:6969/announce
 
 udp://acxx.de:6969/announce
 
 udp://bigfoot1942.sektori.org:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -103,8 +103,6 @@ udp://open.dstud.io:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
-
-udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -135,8 +133,6 @@ udp://thouvenin.cloud:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
@@ -171,8 +167,6 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
