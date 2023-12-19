@@ -41,11 +41,11 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ****
 
-### 更新时间: 2023-12-18
+### 更新时间: 2023-12-19
 
-- **精选列表：**(92 个)  
+- **精选列表：**(93 个)  
  _**[https://trackerslist.../best.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt)**_  
-- **完整列表：**(174 个)  
+- **完整列表：**(172 个)  
  _**[https://trackerslist.../all.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/all.txt)**_  
 - **HTTP(S)列表：**(62 个)  
  _**[https://trackerslist.../http.txt](https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/http.txt)**_  
