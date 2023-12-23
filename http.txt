@@ -30,6 +30,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://openwrt.lingyurouqing.xyz:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://share.camoe.cn:8080/announce
@@ -93,8 +95,6 @@ https://1337.abcvg.info:443/announce
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
