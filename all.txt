@@ -24,8 +24,6 @@ http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://movies.zsw.ca:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -250,8 +248,6 @@ udp://sabross.xyz:6969/announce
 
 udp://su-data.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -267,6 +263,8 @@ udp://tracker.anima.nz:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
