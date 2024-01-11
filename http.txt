@@ -16,6 +16,8 @@ http://[2a01:4f8:c012:8025::1]:8080/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
@@ -29,6 +31,8 @@ http://movies.zsw.ca:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://open.tracker.ink:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -68,6 +72,8 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -88,9 +94,15 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://shahidrazi.online:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.qfruiti.com:443/announce
+
+https://tr.qfruiti.in:443/announce
 
 https://tracker.cloudit.top:443/announce
 
