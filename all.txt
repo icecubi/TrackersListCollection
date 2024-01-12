@@ -74,8 +74,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -111,6 +109,8 @@ https://tracker.gbitt.info:443/announce
 https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -206,6 +206,8 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+udp://freedomalternative.com:6969/announce
+
 udp://hz.is:1337/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
@@ -244,8 +246,6 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -259,6 +259,8 @@ udp://sabross.xyz:6969/announce
 udp://su-data.com:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -276,9 +278,13 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+udp://tracker.ccp.ovh:6969/announce
+
 udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.dev-null.rocks:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -289,8 +295,6 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
-
-udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.mirrorbay.org:6969/announce
 
@@ -329,8 +333,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
