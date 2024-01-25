@@ -28,13 +28,13 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-### Updated: 2024-01-24
+### Updated: 2024-01-25
 
-- **BEST Tracker list:** (93 trackers)  
+- **BEST Tracker list:** (98 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (176 trackers)  
+- **ALL Tracker list:** (181 trackers)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (70 trackers)  
+- **HTTP(S) Tracker list:** (71 trackers)  
  _**https://cf.trackerslist.com/http.txt**_  
 
 <details>
@@ -44,9 +44,7 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 \# **The following is an example of the complete list `best.txt` (modify the file name as needed):**  
 
-- _**https://cf.trackerslist.com/best.txt**_  
 - _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/best.txt**_  
-- _**https://gitea.com/XIU2/TrackersListCollection/raw/branch/master/best.txt**_  
 - _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
