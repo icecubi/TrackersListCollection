@@ -28,11 +28,11 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-### Updated: 2024-02-08
+### Updated: 2024-02-09
 
 - **BEST Tracker list:** (93 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (182 trackers)  
+- **ALL Tracker list:** (180 trackers)  
  _**https://cf.trackerslist.com/all.txt**_  
 - **HTTP(S) Tracker list:** (74 trackers)  
  _**https://cf.trackerslist.com/http.txt**_  
