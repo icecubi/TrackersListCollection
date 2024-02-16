@@ -22,13 +22,15 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://ch3oh.ru:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://open.tracker.ink:6969/announce
+http://r.l5.ca:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -37,8 +39,6 @@ http://share.camoe.cn:8080/announce
 http://t.acg.rip:6699/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://t.overflow.biz:6969/announce
 
 http://tk.greedland.net:80/announce
 
@@ -49,6 +49,8 @@ http://torrentsmd.com:8080/announce
 http://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -110,19 +112,15 @@ https://tr.qfruiti.com:443/announce
 
 https://tr.qfruiti.in:443/announce
 
-https://tracker.3moredays.com:443/announce
-
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
-https://tracker.imgoingto.icu:443/announce
+https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.lilithraws.cf:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -262,6 +260,8 @@ udp://pirate.t-1.org:1337/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
+udp://r.l5.ca:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -277,6 +277,8 @@ udp://tamas3.ynh.fr:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -340,8 +342,6 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
@@ -363,7 +363,5 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://y.paranoid.agency:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
