@@ -42,8 +42,6 @@ http://t.overflow.biz:6969/announce
 
 http://tk.greedland.net:80/announce
 
-http://torrent.hificode.in:6969/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tracker.birkenwald.de:6969/announce
@@ -76,7 +74,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.skyts.net:6969/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -252,13 +250,9 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://pirate.t-1.org:1337/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -290,8 +284,6 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -301,6 +293,8 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -339,8 +333,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
