@@ -58,8 +58,6 @@ https://tr.qfruiti.com:443/announce
 
 https://tr.qfruiti.in:443/announce
 
-https://track3r.site:443/announce
-
 https://tracker.gbitt.info:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -114,8 +112,6 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.xxtor.com:3074/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -157,6 +153,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.com:80/announce
 
