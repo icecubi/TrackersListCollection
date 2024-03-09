@@ -24,13 +24,13 @@ http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://movies.zsw.ca:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://retracker.seven-sky.net:80/announce
 
 http://t.acg.rip:6699/announce
 
@@ -41,8 +41,6 @@ http://torrentsmd.com:8080/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -190,6 +188,8 @@ udp://ipv4.rer.lol:2710/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://jutone.com:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -228,11 +228,11 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.io:6969/announce
 
+udp://p2p.publictracker.xyz:6969/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://pirate.t-1.org:1337/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -243,6 +243,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://ryjer.com:6969/announce
 
 udp://su-data.com:6969/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -258,7 +260,7 @@ udp://tracker.anima.nz:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
-udp://tracker.auctor.tv:6969/announce
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
