@@ -20,9 +20,9 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://ipv6.rer.lol:6969/announce
+http://ch3oh.ru:6969/announce
 
-http://movies.zsw.ca:6969/announce
+http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -32,8 +32,6 @@ http://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
 
-http://t1.aag.moe:17715/announce
-
 http://tinfoil.space:6969/announce
 
 http://tk.greedland.net:80/announce
@@ -41,8 +39,6 @@ http://tk.greedland.net:80/announce
 http://torrentsmd.com:8080/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -70,7 +66,7 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.torrentuje.me:2710/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -107,8 +103,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
