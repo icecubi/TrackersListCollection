@@ -41,14 +41,16 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ****
 
-### 更新时间: 2024-03-23
+### 更新时间: 2024-03-24
 
-- **精选列表：**(80 个)  
+- **精选列表：**(84 个)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **完整列表：**(175 个)  
+- **完整列表：**(169 个)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S)列表：**(66 个)  
+- **HTTP(S) 列表：**(65 个)  
  _**https://cf.trackerslist.com/http.txt**_  
+- **无 HTTP 列表：**(127 个)  
+ _**https://cf.trackerslist.com/nohttp.txt**_  
 
 > 如果上面链接地址无法打开或很慢，请尝试使用以下其他 **CDN 分流**地址。
 
@@ -87,6 +89,7 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 - _**https://cf.trackerslist.com/best_aria2.txt**_  
 - _**https://cf.trackerslist.com/all_aria2.txt**_  
 - _**https://cf.trackerslist.com/http_aria2.txt**_  
+- _**https://cf.trackerslist.com/nohttp_aria2.txt**_  
 
 > 如果上面链接地址无法打开或很慢，请尝试使用上面的其他 **CDN 分流**地址（只需改下文件名）。
 
