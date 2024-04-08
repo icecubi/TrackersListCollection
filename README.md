@@ -15,7 +15,7 @@ I've put together a kick-ass list of top-notch trackers by scouring the web and 
 
 ### What is Tracker?
 
-Tracker is a necessary role in BT download, it can effectively improve BT download speed.  
+Tracker plays a necessary role in BT download, it can effectively improve BT download speed.  
 
 > Record user information that downloads the same resource to **help you connect with other users**.  
 
@@ -28,15 +28,15 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-### Updated: 2024-04-07
+### Updated: 2024-04-08
 
-- **BEST Tracker list:** (81 trackers)  
+- **BEST Tracker list:** (78 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (169 trackers)  
+- **ALL Tracker list:** (162 trackers)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (63 trackers)  
+- **HTTP(S) Tracker list:** (57 trackers)  
  _**https://cf.trackerslist.com/http.txt**_  
-- **No HTTP Tracker list:** (125 trackers)  
+- **No HTTP Tracker list:** (124 trackers)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
 
 <details>
@@ -89,7 +89,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 #### qBittorrent Enhanced Edition:
 
 > <small>_**https://github.com/c0re100/qBittorrent-Enhanced-Edition**_</small>  
-> <small>Based qBittorrent, added many useful features, such as **Subscribing to Tracker URL** , you can easily use with this project.</small>  
+> <small>Based on qBittorrent, added many useful features, such as **Subscribing to Tracker URL**, which you can easily use with this project.</small>  
 
 After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
