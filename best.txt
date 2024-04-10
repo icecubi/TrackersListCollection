@@ -8,6 +8,8 @@ http://bvarf.tracker.sh:2086/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://nyaa.tracker.wf:7777/announce
+
 http://open.acgnxtracker.com:80/announce
 
 http://share.camoe.cn:8080/announce
@@ -27,6 +29,8 @@ http://tracker.electro-torrent.pl:80/announce
 http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -64,11 +68,7 @@ udp://aarsen.me:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bubu.mapfactor.com:6969/announce
-
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -83,8 +83,6 @@ udp://ipv6.fuuuuuck.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -114,6 +112,10 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://public.demonoid.ch:6969/announce
 
+udp://public.publictracker.xyz:6969/announce
+
+udp://retracker.hotplug.ru:2710/announce
+
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -127,8 +129,6 @@ udp://thetracker.org:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -144,23 +144,25 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.picotorrent.one:6969/announce
 
+udp://tracker.publictracker.xyz:6969/announce
+
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker2.dler.com:80/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker2.dler.org:80/announce
+udp://tracker2.dler.com:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
