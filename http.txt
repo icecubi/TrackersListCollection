@@ -16,15 +16,13 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://ch3oh.ru:6969/announce
-
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.acgnxtracker.com:80/announce
+http://open-v6.demonoid.ch:6969/announce
 
-http://p2p.0g.cx:6969/announce
+http://open.acgnxtracker.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -76,15 +74,13 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://1337.abcvg.info:443/announce
-
-https://bt.ptlsp.com:443/announce
-
 https://shahidrazi.online:443/announce
 
 https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
