@@ -16,6 +16,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://ch3oh.ru:6969/announce
+
 http://ipv6.rer.lol:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
@@ -25,6 +27,8 @@ http://open-v6.demonoid.ch:6969/announce
 http://open.acgnxtracker.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
+
+http://t.overflow.biz:6969/announce
 
 http://t1.aag.moe:17715/announce
 
@@ -37,8 +41,6 @@ http://tr.kxmp.cf:80/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -74,13 +76,13 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
+https://1337.abcvg.info:443/announce
+
 https://shahidrazi.online:443/announce
 
 https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -113,5 +115,3 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
-
-https://trackers.ptlsp.com:443/announce
