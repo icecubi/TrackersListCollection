@@ -2,6 +2,8 @@ https://1337.abcvg.info:443/announce
 
 https://bt.ptlsp.com:443/announce
 
+https://t.peer-exchange.download:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://tr.abir.ga:443/announce
@@ -19,6 +21,8 @@ https://tracker.gbitt.info:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -122,6 +126,8 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
@@ -200,8 +206,6 @@ udp://tracker.jamesthebard.net:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.open-data.network:8888/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.picotorrent.one:6969/announce
@@ -215,6 +219,10 @@ udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.t-rb.org:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.therarbg.com:6969/announce
 
