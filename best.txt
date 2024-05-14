@@ -10,6 +10,8 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://open.tracker.ink:6969/announce
+
 http://share.camoe.cn:8080/announce
 
 http://t.nyaatracker.com:80/announce
@@ -28,13 +30,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
-
-https://t.peer-exchange.download:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -59,8 +59,6 @@ https://tracker1.520.jp:443/announce
 https://trackers.mlsub.net:443/announce
 
 udp://amigacity.xyz:6969/announce
-
-udp://api.boletera.org:3074/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
@@ -116,15 +114,13 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.fnix.net:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -138,12 +134,12 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://u.peer-exchange.download:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
