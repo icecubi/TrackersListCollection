@@ -4,13 +4,9 @@ https://bt.ptlsp.com:443/announce
 
 https://tr.abir.ga:443/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
-
-https://tracker.expli.top:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -88,8 +84,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 udp://inferno.demonoid.is:3391/announce
 
 udp://ipv4.rer.lol:2710/announce
@@ -166,7 +160,9 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.ccp.ovh:6969/announce
+udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -190,11 +186,11 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.picotorrent.one:6969/announce
-
-udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -204,11 +200,7 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.t-rb.org:6969/announce
-
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
