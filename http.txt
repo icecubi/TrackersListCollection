@@ -28,8 +28,6 @@ http://open.acgnxtracker.com:80/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://t.overflow.biz:6969/announce
-
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -80,6 +78,8 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://bt.ptlsp.com:443/announce
+
 https://t.peer-exchange.download:443/announce
 
 https://tr.abir.ga:443/announce
@@ -102,6 +102,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
+https://tracker.midnightprogrammer.net:443/announce
+
 https://tracker.pmman.tech:443/announce
 
 https://tracker.renfei.net:443/announce
@@ -113,6 +115,8 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
+
+https://trackers.ptlsp.com:443/announce
 
 https://trackers.run:443/announce
 
