@@ -14,8 +14,6 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -32,7 +30,9 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
-https://1337.abcvg.info:443/announce
+https://pybittrack.retiolus.net:443/announce
+
+https://t.peer-exchange.download:443/announce
 
 https://tr.abir.ga:443/announce
 
@@ -47,8 +47,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.midnightprogrammer.net:443/announce
 
 https://tracker.renfei.net:443/announce
 
@@ -76,15 +74,17 @@ udp://exodus.desync.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
+udp://new-line.net:6969/announce
+
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -98,11 +98,7 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://ryjer.com:6969/announce
-
 udp://thetracker.org:80/announce
-
-udp://tk2v6.trackerservers.com:8080/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -131,6 +127,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://ttr.croco.net:6969/announce
 
