@@ -12,6 +12,8 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
+https://tracker.imgoingto.icu:443/announce
+
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.kuroy.me:443/announce
@@ -19,8 +21,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -130,6 +130,8 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://public.publictracker.xyz:6969/announce
+
 udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -159,8 +161,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -204,6 +204,8 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -222,8 +224,6 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://ttr.croco.net:6969/announce
-
 udp://u.peer-exchange.download:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -233,5 +233,7 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
