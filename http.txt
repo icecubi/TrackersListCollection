@@ -28,6 +28,8 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
+http://t.overflow.biz:6969/announce
+
 http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
@@ -41,6 +43,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.dump.cl:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
