@@ -26,7 +26,9 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://t.overflow.biz:6969/announce
+http://t1.aag.moe:17715/announce
+
+http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -91,8 +93,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://tracker.gcrenwp.top:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
