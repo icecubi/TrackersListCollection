@@ -6,8 +6,6 @@ https://t.peer-exchange.download:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -74,8 +72,6 @@ udp://bubu.mapfactor.com:6969/announce
 
 udp://concen.org:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
-
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
@@ -124,8 +120,6 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -136,6 +130,8 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://public.publictracker.xyz:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -143,6 +139,8 @@ udp://retracker.lanta.me:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -156,6 +154,8 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -165,6 +165,8 @@ udp://tracker.birkenwald.de:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -198,11 +200,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.silksa.co.za:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -210,7 +212,9 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker.vds.nz:6969/announce
+
+udp://tracker.xor.st:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -233,7 +237,5 @@ udp://u6.trakx.crim.ist:1337/announce
 udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
