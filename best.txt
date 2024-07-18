@@ -1,3 +1,5 @@
+http://1337.abcvg.info:80/announce
+
 http://bt.okmp3.ru:2710/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -18,13 +20,13 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.tfile.co:80/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -50,13 +52,9 @@ https://www.peckservers.com:9443/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://bt2.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
-
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -72,9 +70,9 @@ udp://oh.fuuuuuck.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -88,19 +86,13 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -110,13 +102,13 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -130,8 +122,6 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker.xor.st:6969/announce
 
 udp://tracker1.t-1.org:6969/announce
@@ -141,3 +131,5 @@ udp://tracker3.t-1.org:6969/announce
 udp://wepzone.net:6969/announce
 
 udp://z.mercax.com:53/announce
+
+wss://tracker.openwebtorrent.com:443/announce
