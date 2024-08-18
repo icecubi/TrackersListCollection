@@ -42,7 +42,7 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.dump.cl:6969/announce
+http://tracker.edkj.club:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -71,8 +71,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.peckservers.com:9000/announce
 
 http://www.wareztorrent.com:80/announce
-
-https://bittorrent.service.gongt.me:59443/announce
 
 https://pybittrack.retiolus.net:443/announce
 
@@ -160,6 +158,8 @@ udp://exodus.desync.com:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://jutone.com:6969/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -183,8 +183,6 @@ udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
-
-udp://open.stealth.si:80/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -222,9 +220,9 @@ udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://tracker.birkenwald.de:6969/announce
+udp://tracker.auctor.tv:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -239,8 +237,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -275,6 +271,8 @@ udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.xor.st:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
