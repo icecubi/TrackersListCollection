@@ -24,15 +24,11 @@ http://mc.itscraftsoftware.my.id:8804/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.ink:6969/announce
-
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.x2k.ru:80/announce
 
 http://t.overflow.biz:6969/announce
-
-http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
@@ -99,8 +95,6 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
