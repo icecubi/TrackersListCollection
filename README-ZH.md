@@ -41,15 +41,15 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ****
 
-### 更新时间: 2024-09-12
+### 更新时间: 2024-09-13
 
-- **精选列表：**(80 个)  
+- **精选列表：**(81 个)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **完整列表：**(158 个)  
+- **完整列表：**(156 个)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) 列表：**(61 个)  
+- **HTTP(S) 列表：**(60 个)  
  _**https://cf.trackerslist.com/http.txt**_  
-- **无 HTTP 列表：**(118 个)  
+- **无 HTTP 列表：**(116 个)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
 
 > 如果上面链接地址无法打开或很慢，请尝试使用以下其他 **CDN 分流**地址。
@@ -59,7 +59,7 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ****
 
-\# **以下为完整列表 ` best.txt ` 示例（末尾文件名可自行修改，选择一个速度快的地址）：**  
+\# **以下为精选列表 ` best.txt ` 示例（末尾文件名可自行修改，随便选择个能用的）：**  
 
 - _**https://bitbucket.org/xiu2/trackerslistcollection/raw/master/best.txt**_  
 - _**https://cdn.jsdmirror.com/gh/XIU2/TrackersListCollection/best.txt**_  
@@ -72,10 +72,10 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 - _**https://js.cdn.haah.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://raw.nuaa.cf/XIU2/TrackersListCollection/master/best.txt**_  
 - _**https://raw.yzuu.cf/XIU2/TrackersListCollection/master/best.txt**_  
+- _**[https://ghp.ci/.../XIU2/TrackersListCollection/master/best.txt](https://ghp.ci/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://ghproxy.cc/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.cc/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://ghproxy.net/.../XIU2/TrackersListCollection/master/best.txt](https://ghproxy.net/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://gh-proxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://gh-proxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
-- _**[https://mirror.ghproxy.com/.../XIU2/TrackersListCollection/master/best.txt](https://mirror.ghproxy.com/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 - _**[https://github.moeyy.xyz/.../XIU2/TrackersListCollection/master/best.txt](https://github.moeyy.xyz/https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt)**_  
 
 
