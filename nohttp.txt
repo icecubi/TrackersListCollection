@@ -82,8 +82,6 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 udp://ipv4.rer.lol:2710/announce
 
 udp://isk.richardsw.club:6969/announce
@@ -114,8 +112,6 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -145,8 +141,6 @@ udp://tk2v6.trackerservers.com:8080/announce
 udp://torrents.artixlinux.org:6969/announce
 
 udp://trackarr.org:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -206,8 +200,6 @@ udp://tracker.vds.nz:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
@@ -219,8 +211,6 @@ udp://tracker3.itzmx.com:6961/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 

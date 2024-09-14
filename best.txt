@@ -4,9 +4,13 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://ipv6.rer.lol:6969/announce
+
 http://jvavav.com:80/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://open.tracker.ink:6969/announce
 
 http://retracker.x2k.ru:80/announce
 
@@ -16,8 +20,6 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -26,9 +28,11 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.tfile.co:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -116,8 +120,6 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -138,6 +140,8 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
@@ -153,8 +157,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.xor.st:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
