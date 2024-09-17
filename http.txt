@@ -22,9 +22,11 @@ http://isk.richardsw.club:6969/announce
 
 http://jvavav.com:80/announce
 
-http://mc.itscraftsoftware.my.id:8804/announce
-
 http://nyaa.tracker.wf:7777/announce
+
+http://open.tracker.ink:6969/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
@@ -72,6 +74,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -84,27 +88,21 @@ http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.peckservers.com:9000/announce
+
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
 https://jvavav.com:443/announce
 
-https://mathkangaroo.jp:443/announce
-
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
-https://tr.ready4.icu:443/announce
-
 https://tracker-zhuqiy.dgj055.icu:443/announce
-
-https://tracker.bjut.jp:443/announce
 
 https://tracker.cloudit.top:443/announce
 
