@@ -26,8 +26,6 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.k.vu:6969/announce
 
 http://tracker.tfile.co:80/announce
@@ -41,8 +39,6 @@ http://www.wareztorrent.com:80/announce
 https://1337.abcvg.info:443/announce
 
 https://pybittrack.retiolus.net:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -80,6 +76,8 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
+udp://new-line.net:6969/announce
+
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -96,6 +94,8 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -105,6 +105,8 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://thetracker.org:80/announce
 
@@ -127,8 +129,6 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.kmzs123.cf:17272/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
