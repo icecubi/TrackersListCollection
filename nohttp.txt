@@ -1,5 +1,7 @@
 https://1337.abcvg.info:443/announce
 
+https://api.ipv4online.uk:443/announce
+
 https://p2p.azu.red:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
@@ -8,7 +10,11 @@ https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://tr.nyacat.pw:443/announce
+
 https://tracker-zhuqiy.dgj055.icu:443/announce
+
+https://tracker.bt4g.com:443/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -58,9 +64,17 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+udp://bt.ktrackers.com:6666/announce
+
+udp://canardscitrons.nohost.me:6969/announce
+
 udp://concen.org:6969/announce
 
+udp://d13bttrck.duckdns.org:6969/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -81,6 +95,8 @@ udp://leet-tracker.moe:1337/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -121,8 +137,6 @@ udp://ryjer.com:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
 
@@ -170,6 +184,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -181,6 +197,8 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
