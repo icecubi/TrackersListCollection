@@ -22,6 +22,8 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
+https://tracker.itscraftsoftware.my.id:443/announce
+
 https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
@@ -47,6 +49,8 @@ udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 
 udp://52.58.128.163:6969/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://[2a03:7220:8083:cd00::1]:451/announce
 
@@ -114,6 +118,8 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
+udp://open.u-p.pw:6969/announce
+
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -138,6 +144,8 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
@@ -147,8 +155,6 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -219,8 +225,6 @@ udp://tracker4.leechshield.link:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
