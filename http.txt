@@ -90,6 +90,8 @@ http://tracker.corpscorp.online:80/announce
 
 http://tracker.dler.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.dmcomic.org:2710/announce
 
 http://tracker.edkj.club:6969/announce
@@ -121,6 +123,8 @@ http://tracker.vraphim.com:6969/announce
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -163,6 +167,8 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ipfsscan.io:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.kuroy.me:443/announce
 
