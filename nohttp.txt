@@ -2,6 +2,8 @@ https://1337.abcvg.info:443/announce
 
 https://api.ipv4online.uk:443/announce
 
+https://mathkangaroo.jp:443/announce
+
 https://p2p.azu.red:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
@@ -18,13 +20,13 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-https://tracker.bt4g.com:443/announce
-
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ipfsscan.io:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -35,8 +37,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -98,8 +98,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -144,11 +142,11 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://tk4.leechshield.link:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -174,6 +172,8 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.jamesthebard.net:6969/announce
+
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -194,9 +194,11 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
