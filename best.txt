@@ -12,6 +12,8 @@ http://t.nyaatracker.com:80/announce
 
 http://tk.greedland.net:80/announce
 
+http://tk.leechshield.link:80/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
@@ -32,9 +34,9 @@ https://1337.abcvg.info:443/announce
 
 https://tr.abir.ga:443/announce
 
-https://tr.zukizuki.org:443/announce
+https://tr.burnabyhighstar.com:443/announce
 
-https://tracker.gcrenwp.top:443/announce
+https://tr.zukizuki.org:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -45,10 +47,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.moeking.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.yemekyedim.com:443/announce
-
-https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
@@ -68,7 +66,9 @@ udp://ismaarino.com:1234/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://moonburrow.club:6969/announce
+udp://odd-hd.fr:6969/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -90,8 +90,6 @@ udp://serpb.vpsburti.com:6969/announce
 
 udp://thetracker.org:80/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://trackarr.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -103,8 +101,6 @@ udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
