@@ -6,9 +6,13 @@ http://kiryuu-test.mywaifu.best:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.cl:1337/announce
+
 http://public.tracker.vraphim.com:6969/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://tk.greedland.net:80/announce
 
 http://tk.leechshield.link:80/announce
 
@@ -20,7 +24,7 @@ http://tracker.beeimg.com:6969/announce
 
 http://tracker.bittor.pw:1337/announce
 
-http://tracker.tfile.co:80/announce
+http://tracker.bt4g.com:2095/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -30,15 +34,19 @@ http://tracker4.itzmx.com:2710/announce
 
 http://www.all4nothin.net:80/announce.php
 
+http://www.genesis-sp.org:2710/announce
+
 http://www.torrentsnipe.info:2701/announce
 
-http://www.wareztorrent.com:80/announce
-
 https://1337.abcvg.info:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.zukizuki.org:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
@@ -58,12 +66,6 @@ https://tracker.yemekyedim.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-https://trackers.mlsub.net:443/announce
-
-https://www.peckservers.com:9443/announce
-
-udp://amigacity.xyz:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -77,8 +79,6 @@ udp://exodus.desync.com:6969/announce
 udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -94,8 +94,6 @@ udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
@@ -106,9 +104,13 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://run.publictracker.xyz:6969/announce
 
+udp://seedpeer.net:6969/announce
+
 udp://serpb.vpsburti.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
+
+udp://thetracker.org:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -128,6 +130,8 @@ udp://tracker.doko.moe:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
 udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
@@ -144,8 +148,6 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
@@ -153,3 +155,5 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://u6.trakx.crim.ist:1337/announce
 
 udp://z.mercax.com:53/announce
+
+wss://tracker.openwebtorrent.com:443/announce
