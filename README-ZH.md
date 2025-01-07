@@ -41,15 +41,15 @@ _可通过观察 **[ubuntu.torrent](https://ubuntu.com/download/alternative-down
 
 ****
 
-### 更新时间: 2025-01-06
+### 更新时间: 2025-01-07
 
-- **精选列表：**(85 个)  
+- **精选列表：**(79 个)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **完整列表：**(171 个)  
+- **完整列表：**(169 个)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) 列表：**(86 个)  
+- **HTTP(S) 列表：**(82 个)  
  _**https://cf.trackerslist.com/http.txt**_  
-- **无 HTTP 列表：**(109 个)  
+- **无 HTTP 列表：**(112 个)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
 
 > 如果上面链接地址无法打开或很慢，请尝试使用以下其他 **CDN 分流**地址。
@@ -109,7 +109,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 #### BitComet (比特彗星):
 
 > <small>_**官方网站：http://www.bitcomet.com**_</small>  
-> <small>_**便携版：https://pan.lanpw.com/b073c7g4f (已配置 Tracker 并屏蔽迅雷)**_</small>  
+> <small>_**便携版：https://xiu.lanzoub.com/b073c7g4f (已配置 Tracker 并屏蔽迅雷)**_</small>  
 
 - **工具 - 选项 - 任务设置 - BT下载 - Tracker**  
  **勾选下图红框内的选项** 并填写 Tracker URL 后点击 `立即更新` 上面就会显示获取的 Tracker 了。  
@@ -123,7 +123,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 #### qBittorrent Enhanced Edition (增强版):
 
 > <small>_**Github：https://github.com/c0re100/qBittorrent-Enhanced-Edition**_</small>  
-> <small>_**便携版：https://pan.lanpw.com/b073dnr7g (已配置 Tracker 并屏蔽迅雷)**_</small>  
+> <small>_**便携版：https://xiu.lanzoub.com/b073dnr7g (已配置 Tracker 并屏蔽迅雷)**_</small>  
 
 > <small>在 qBittorrent 的基础上增加了很多功能，例如：**屏蔽迅雷、订阅 Tracker URL** ，可以很方便的配合本项目使用。</small>
 
@@ -137,7 +137,7 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 #### qBittorrent:
 
 > <small>_**官方网站：https://www.qbittorrent.org**_</small>  
-> <small>_**便携版：https://pan.lanpw.com/b073jjwta**_</small>  
+> <small>_**便携版：https://xiu.lanzoub.com/b073jjwta**_</small>  
 
 - **选项[齿轮图标] - BitTorrent**  
  **勾选下图红框内的选项** 并复制所有 Tracker 后粘贴到下方输入框中，然后点击 `Apply` 保存。  
