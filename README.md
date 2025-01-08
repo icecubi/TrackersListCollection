@@ -28,13 +28,13 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-### Updated: 2025-01-07
+### Updated: 2025-01-08
 
-- **BEST Tracker list:** (79 trackers)  
+- **BEST Tracker list:** (84 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  
 - **ALL Tracker list:** (169 trackers)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (82 trackers)  
+- **HTTP(S) Tracker list:** (83 trackers)  
  _**https://cf.trackerslist.com/http.txt**_  
 - **No HTTP Tracker list:** (112 trackers)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
@@ -64,10 +64,10 @@ _You can judge whether there is a problem with the BT configuration and network 
 <details>
 <summary><strong><code>[Click to expand] - View the tracker list in Aria2 format</code> </strong></summary>
 
-- _**https://cf.trackerslist.com/best_aria2.txt**_  
-- _**https://cf.trackerslist.com/all_aria2.txt**_  
-- _**https://cf.trackerslist.com/http_aria2.txt**_  
-- _**https://cf.trackerslist.com/nohttp_aria2.txt**_  
+- ***https://cf.trackerslist.com/best_aria2.txt***  
+- ***https://cf.trackerslist.com/all_aria2.txt***  
+- ***https://cf.trackerslist.com/http_aria2.txt***  
+- ***https://cf.trackerslist.com/nohttp_aria2.txt***  
 
 </details>
 
