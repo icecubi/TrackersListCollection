@@ -20,19 +20,13 @@ http://tracker.beeimg.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.lintk.me:2710/announce
-
-http://tracker.moxing.party:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
-http://tracker.vanitycore.co:6969/announce
-
 http://www.all4nothin.net:80/announce.php
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -76,9 +70,15 @@ udp://isk.richardsw.club:6969/announce
 
 udp://ismaarino.com:1234/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://martin-gebhardt.eu:25/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://open.demonii.com:1337/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -114,6 +114,8 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -124,13 +126,13 @@ udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.valete.tf:9999/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 

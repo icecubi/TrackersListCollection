@@ -6,6 +6,8 @@ https://sparkle.ghostchu-services.top:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.nyacat.pw:443/announce
@@ -59,8 +61,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://bt.rer.lol:2710/announce
 
 udp://bt.rer.lol:6969/announce
-
-udp://concen.org:6969/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
@@ -118,6 +118,8 @@ udp://retracker.lanta.me:2710/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -167,8 +169,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
