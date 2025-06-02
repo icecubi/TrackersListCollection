@@ -8,8 +8,6 @@ https://tr.abiir.top:443/announce
 
 https://tr.abir.ga:443/announce
 
-https://tr.nyacat.pw:443/announce
-
 https://tr.zukizuki.org:443/announce
 
 https://tracker.aburaya.live:443/announce
@@ -72,6 +70,8 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://discord.heihachi.pw:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -85,8 +85,6 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 udp://isk.richardsw.club:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -122,7 +120,7 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -148,8 +146,6 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
@@ -157,6 +153,8 @@ udp://tracker.iperson.xyz:6969/announce
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
+
+udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -182,6 +180,8 @@ udp://tracker.valete.tf:9999/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 udp://tracker2.dler.org:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
@@ -193,8 +193,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
-
-udp://utracker.ghostchu-services.top:6969/announce
 
 udp://wepzone.net:6969/announce
 
