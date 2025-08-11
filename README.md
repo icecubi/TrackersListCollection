@@ -28,15 +28,15 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-### Updated: 2025-08-10
+### Updated: 2025-08-11
 
-- **BEST Tracker list:** (77 trackers)  
+- **BEST Tracker list:** (78 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (165 trackers)  
+- **ALL Tracker list:** (171 trackers)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (86 trackers)  
+- **HTTP(S) Tracker list:** (89 trackers)  
  _**https://cf.trackerslist.com/http.txt**_  
-- **No HTTP Tracker list:** (102 trackers)  
+- **No HTTP Tracker list:** (105 trackers)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
 
 <details>
@@ -90,11 +90,8 @@ bt-tracker=http://aaa.aa:80/announce,udp://bbb.bb:80/announce
 #### qBittorrent Enhanced Edition:
 
 > <small>_**https://github.com/c0re100/qBittorrent-Enhanced-Edition**_</small>  
-> <small>Based on qBittorrent, added many useful features, such as **Subscribing to Tracker URL**, which you can easily use with this project.</small>  
 
-After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
-
-<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-11.png" width="50%">
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-15.png" width="50%">
 
 ****
 
@@ -102,7 +99,14 @@ After saving the settings, be sure to **restart qBittorrent Enhanced Edition.**
 
 > <small>_**https://www.qbittorrent.org**_</small>
 
+<img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-15.png" width="50%">
+
+<details>
+<summary><strong><code>[Click to expand] - See how old versions below qBittorrent v5.0 work</code></strong></summary>
+
 <img src="https://bitbucket.org/xiu2/trackerslistcollection/raw/master/img/en-12.png" width="50%">
+
+</details>
 
 ****
 
