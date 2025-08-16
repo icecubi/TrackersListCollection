@@ -28,15 +28,15 @@ _You can judge whether there is a problem with the BT configuration and network 
 
 ****
 
-### Updated: 2025-08-15
+### Updated: 2025-08-16
 
 - **BEST Tracker list:** (81 trackers)  
  _**https://cf.trackerslist.com/best.txt**_  
-- **ALL Tracker list:** (169 trackers)  
+- **ALL Tracker list:** (183 trackers)  
  _**https://cf.trackerslist.com/all.txt**_  
-- **HTTP(S) Tracker list:** (87 trackers)  
+- **HTTP(S) Tracker list:** (96 trackers)  
  _**https://cf.trackerslist.com/http.txt**_  
-- **No HTTP Tracker list:** (104 trackers)  
+- **No HTTP Tracker list:** (112 trackers)  
  _**https://cf.trackerslist.com/nohttp.txt**_  
 
 <details>
@@ -50,7 +50,7 @@ _You can judge whether there is a problem with the BT configuration and network 
 - _**https://cdn.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://fastly.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
 - _**https://gcore.jsdelivr.net/gh/XIU2/TrackersListCollection/best.txt**_  
-- _**https://cdn.statically.io/gh/XIU2/TrackersListCollection/best.txt**_  
+- _**https://cdn.statically.io/gh/XIU2/TrackersListCollection/master/best.txt**_  
 - _**https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt**_  
 
 </details>
