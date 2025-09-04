@@ -100,10 +100,6 @@ http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -116,10 +112,6 @@ http://tracker.valete.tf:9999/announce
 
 http://tracker.vanitycore.co:6969/announce
 
-http://tracker.waaa.moe:6969/announce
-
-http://tracker.wepzone.net:6969/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.zhuqiy.top:80/announce
@@ -131,8 +123,6 @@ http://tracker2.dler.org:80/announce
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker810.xyz:11450/announce
-
-http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -153,8 +143,6 @@ https://4.tracker.eu.org:443/announce
 https://api.ipv4online.uk:443/announce
 
 https://shahidrazi.online:443/announce
-
-https://t1.hloli.org:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
