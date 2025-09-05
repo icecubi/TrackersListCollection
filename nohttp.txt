@@ -12,6 +12,8 @@ https://api.ipv4online.uk:443/announce
 
 https://shahidrazi.online:443/announce
 
+https://t1.hloli.org:443/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
@@ -97,8 +99,6 @@ udp://exodus.desync.com:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 
 udp://glotorrents.pw:6969/announce
-
-udp://hificode.in:6969/announce
 
 udp://ibksturm.synology.me:6969/announce
 
@@ -206,6 +206,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.valete.tf:9999/announce
 
+udp://tracker.wepzone.net:6969/announce
+
 udp://tracker.zupix.online:1333/announce
 
 udp://tracker.zupix.online:6969/announce
@@ -223,6 +225,8 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://v74853.hosted-by-vdsina.com:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
