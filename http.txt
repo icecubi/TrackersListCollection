@@ -10,8 +10,6 @@ http://207.241.231.226:6969/announce
 
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -56,13 +54,13 @@ http://share.hkg-fansub.info:80/announce.php
 
 http://shubt.net:2710/announce
 
-http://speedtest.iperson.xyz:6969/announce
-
 http://t.jaekr.sh:6969/announce
 
 http://t.overflow.biz:6969/announce
 
 http://tk.greedland.net:80/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -120,6 +118,8 @@ http://tracker.wepzone.net:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://tracker.zhuqiy.top:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
@@ -151,8 +151,6 @@ https://3.tracker.eu.org:443/announce
 https://4.tracker.eu.org:443/announce
 
 https://api.ipv4online.uk:443/announce
-
-https://shahidrazi.online:443/announce
 
 https://t1.hloli.org:443/announce
 
