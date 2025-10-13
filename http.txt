@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://0d.kebhana.mx:443/announce
 
 http://1337.abcvg.info:80/announce
@@ -20,15 +22,11 @@ http://bt.rer.lol:2710/announce
 
 http://bt1.xxxxbt.cc:6969/announce
 
-http://buny.uk:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
 
 http://echostar.ddnsfree.com:8080/announce
 
 http://extracker.dahrkael.net:6969/announce
-
-http://home.yxgz.club:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
@@ -56,8 +54,6 @@ http://shubt.net:2710/announce
 
 http://t-backup.213891.xyz:80/announce
 
-http://t.al.uy:80/announce
-
 http://t.overflow.biz:6969/announce
 
 http://tk.greedland.net:80/announce
@@ -74,13 +70,11 @@ http://tracker.23794.top:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
-http://tracker.bt-hash.com:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.corpscorp.online:80/announce
+http://tracker.bz:80/announce
+
+http://tracker.chaoz.li:2710/announce
 
 http://tracker.cutie.dating:80/announce
 
@@ -94,13 +88,11 @@ http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 http://tracker.lintk.me:2710/announce
 
-http://tracker.moxing.party:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -118,13 +110,9 @@ http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.zhuqiy.com:80/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker810.xyz:11450/announce
-
-http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -144,11 +132,11 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
-
-https://tracker.aburaya.live:443/announce
 
 https://tracker.alaskantf.com:443/announce
 
