@@ -18,6 +18,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -28,6 +30,8 @@ https://tracker.alaskantf.com:443/announce
 
 https://tracker.belmult.online:443/announce
 
+https://tracker.bt4g.com:443/announce
+
 https://tracker.cutie.dating:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -35,6 +39,8 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
+
+https://tracker.guguan.us.kg:443/announce
 
 https://tracker.jdx3.org:443/announce
 
@@ -88,6 +94,8 @@ udp://concen.org:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
+udp://discord.heihachi.pw:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -95,8 +103,6 @@ udp://exodus.desync.com:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 
 udp://hificode.in:6969/announce
-
-udp://ibksturm.synology.me:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
@@ -136,9 +142,13 @@ udp://torrentclub.online:54123/announce
 
 udp://tr3.ysagin.top:2715/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
